@@ -2,5 +2,5 @@
 
 ```
 [prtouch_v2_fan]
-max_speed: .5
+max_speed: .4
 ```
